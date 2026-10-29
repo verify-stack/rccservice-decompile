@@ -1,4 +1,4 @@
-note that i've haven't decompiled anything since this, if you would like to see a more incomplete but shitter decomp i did a year ago go here: https://github.com/verify-stack/RCCDecomp/tree/legacyvs05
+note that i've haven't decompiled anything since this, if you would like to see a more complete but shitter decomp i did a year ago go here: https://github.com/verify-stack/RCCDecomp/tree/legacyvs05
 these were always meant to be functional. i recommend looking at roconstruct or rbxgsdecomp (non-ai)
 
 Welcome to my functional-matching RCCService decompilation.
